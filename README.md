@@ -1,6 +1,7 @@
 # CSCB58-Final-Project
 
 Project Title: Brick Breaker
+
 Created by: Adrian Ensan and Julia Yan
 
 

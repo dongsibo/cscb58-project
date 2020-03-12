@@ -1,0 +1,10 @@
+# Ignore all lab handouts
+*.pdf
+
+# Ignore some Quartus related files
+*.bak
+*.qws
+db/
+incremental_db/
+output_files/
+simulation/

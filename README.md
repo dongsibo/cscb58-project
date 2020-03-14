@@ -6,7 +6,7 @@ The top-level Verilog module is `Proj` located in `project.v`.
 
 ## Project Status
 
-As of Saturday March 14 2020, all CSCB58H3 Winter 2020 projects have been cancelled in the midst of the current COVID-19 situation.
+As of Saturday March 14 2020, all CSCB58H3 Winter 2020 projects have been cancelled in the midst of the current COVID-19 👑🍺🦠 situation.
 Development on this project is at a standstill and will likely remain so for years to come.
 
 We didn't get a lot of time to work on this project and make it into something of our own, but that's just the way things go sometimes.

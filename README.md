@@ -21,7 +21,7 @@ We didn't get a lot of time to work on this project and make it into something o
 | Name | GitHub Profile |
 | --- | :---: |
 | Andy | [megamanster](https://github.com/megamanster) |
-| Jackie | [ZhiQiChen](https://github.com/ZhiQiChen) |
+| Jackie | [ZhiqiChen](https://github.com/ZhiqiChen) |
 | Sibo | [dongsibo](https://github.com/dongsibo) |
 
 Special thanks to Adrian Ensan and [Julia Yan](https://github.com/julesyan) for their implementation of FPGA Brick Breaker.
